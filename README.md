@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet K.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align =“right” alt=“coding” width =“400” src="https://github.com/navneetnavs/navneetnavs/assets/133754964/34cb9efb-0ea9-4270-802b-92db08d9246e
+<img align =“right” alt=“coding” width =“400” src="[image](https://github.com/navneetnavs/navneetnavs/assets/133754964/a75e2cf9-75dc-44d6-9a80-269b2475108d)
+
 ">
 
 
