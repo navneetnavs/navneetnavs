@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navneet K.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align =“right” alt=“coding” width =“500” src=“![image](https://github.com/navneetnavs/navneetnavs/assets/133754964/775f22ec-15bd-4231-aeda-5b9693e0799e)">
+<img align =“right” alt=“coding” width =“500” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Oi15rcboGrpauba7vLEtb&ust=1692947040711000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDEyand9IADFQAAAAAdAAAAABAE">
 ￼
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetnavs&label=Profile%20views&color=0e75b6&style=flat" alt="navneetnavs" /> </p>
