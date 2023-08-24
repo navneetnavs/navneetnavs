@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align =“right” alt=“coding” width =“400” src="https://github.com/navneetnavs/navneetnavs/assets/133754964/a75e2cf9-75dc-44d6-9a80-269b2475108d
 
-">
+"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetnavs&label=Profile%20views&color=0e75b6&style=flat" alt="navneetnavs" /> </p>
