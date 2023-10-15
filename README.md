@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Practising **Web Development**
 
-- 📫 How to reach me **navneetkumar1800242@gmail.com**
+- 📫 How to reach me **navneetkumar2019s@gmail.com**
 
 - ⚡ Fun fact **I Like Winters.**
 
