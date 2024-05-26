@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Navneet Singh</h1>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Sunchit Dudeja 👋</b></h1>
+</p>]
 <h3 align="center">Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetnavs&label=Profile%20views&color=0e75b6&style=flat" alt="navneetnavs" /> </p>
