@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Navneet Kumar Singh👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Navneet👋</b></h1>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetnavs&label=Profile%20views&color=0e75b6&style=flat" alt="navneetnavs" /> </p>
