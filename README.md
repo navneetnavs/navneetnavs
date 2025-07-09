@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Practising **Web Development**
 
-- 📫 How to reach me **navneetkumar2019s@gmail.com**
+- 📫 How to reach me **navneetkumar18000242@gmail.com**
 
 - ⚡ Fun fact **Avoiding Coffee.**
 
